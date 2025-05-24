@@ -29,14 +29,27 @@
 
 ### 🚀 Projects
 
-- 🚗 Car Price Prediction  
-- 📱 Smartphone Price Prediction  
-- 💻 Laptop Price Prediction  
-- 📩 SMS Spam Classifier  
-- 📚 Book Recommendation System  
-- 🎬 Movie Recommendation System  
-- 🏏 IPL Winning Probability Prediction  
-- 😷 Face Mask Detection (Deep Learning)
+<details>
+  <summary>📊 Data Science Projects</summary>
+
+  - Car Price Prediction  
+  - IPL Winning Probability Prediction  
+  - Smartphone & Laptop Price Prediction  
+</details>
+
+<details>
+  <summary>🤖 ML/NLP Projects</summary>
+
+  - SMS Spam Classifier  
+  - Face Mask Detection  
+</details>
+
+<details>
+  <summary>📚 Recommendation Systems</summary>
+
+  - Book Recommendation  
+  - Movie Recommendation  
+</details>
 
 ---
 
