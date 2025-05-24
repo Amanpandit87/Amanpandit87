@@ -1,3 +1,4 @@
+![GitHub Snake Dark](https://raw.githubusercontent.com/amantripathi-dev/amantripathi-dev/output/github-snake-dark.svg)
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
