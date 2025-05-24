@@ -1,4 +1,8 @@
-![GitHub Snake GIF](https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/ocean.gif)
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
