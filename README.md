@@ -9,11 +9,15 @@
 
 ### 🌍 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+solving+real-world+problems.;Future+Data+Scientist+in+progress..." alt="About Me Animation" />
+</p>
+
 - 📍 I'm from **Gorakhpur, India**  
 - 🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
 - 🎓 Completed **BCA** from *DDU University, Gorakhpur*  
 - 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges  
+- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges
 
 ---
 
