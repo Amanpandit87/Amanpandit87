@@ -3,9 +3,9 @@
 ### 🐍 GitHub Snake Animations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amantripathi-dev/amantripathi-dev/output/ocean.gif" width="300"/>
-  <img src="https://raw.githubusercontent.com/amantripathi-dev/amantripathi-dev/output/github-snake.svg" width="300"/>
-  <img src="https://raw.githubusercontent.com/amantripathi-dev/amantripathi-dev/output/github-snake-dark.svg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/ocean.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
