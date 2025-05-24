@@ -1,12 +1,8 @@
----
-
-### 🐍 GitHub Snake Animations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/ocean.gif" width="300"/>
-  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" width="300"/>
-  <img src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" width="300"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+</picture>
 
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
