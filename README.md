@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 👋 I am Aman Mani Tripathi:
 My name is Aman mani Tripathi. I am from Gorakhpur.<br>I done my bachelor (BCA) from DDU University Gorakhpur <br>and i doing MCA from Galgotias University Greater Noida. <br>During my studies, I gained hands-on experience in like<br>Data Warehousing, Data Analytics, SQL, Python, Data Visualization, <br>Data Mining, Machine Learning, and completed a few projects, <br>including Car price prediction, SMS spam classifier and <br>Books recmmendation system.<br>I inspire to become a Data Scientist so that's all about me.
 
 
