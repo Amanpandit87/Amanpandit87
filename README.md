@@ -1,42 +1,74 @@
-<h1 align="center">Hey there! 👋 I'm Aman Mani Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
 <p align="center">
-  🌍 A data enthusiast from <strong>Gorakhpur, India</strong><br>
-  🎓 MCA student at <strong>Galgotias University, Greater Noida</strong><br>
-  🎓 BCA graduate from <strong>DDU University, Gorakhpur</strong><br>
-  🚀 Future <strong>Data Scientist</strong> in the making!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Skills & Interests
+### 🌍 About Me
 
-- 📊 Data Analytics & Visualization  
-- 🗃️ Data Warehousing & Data Mining  
-- 💻 SQL, Python  
-- 🤖 Machine Learning & Deep Learning  
-- 🧠 Natural Language Processing (NLP)
+- 📍 I'm from **Gorakhpur, India**  
+- 🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
+- 🎓 Completed **BCA** from *DDU University, Gorakhpur*  
+- 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
+- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges  
+
+---
+
+### 💡 Skills & Technologies
+
+- 💻 Python, SQL  
+- 📊 Data Analytics & Visualization (Pandas, Matplotlib, Seaborn)  
+- 🧠 Machine Learning, Deep Learning  
+- 🌐 NLP, Data Mining, Data Warehousing  
+- 🧰 Tools: Jupyter, Google Colab, Power BI  
 
 ---
 
-### 💡 Projects I've Worked On
+### 🚀 Projects
 
-- 🚗 **Car Price Prediction**  
-- 📱 **Smartphone Price Prediction**  
-- 💻 **Laptop Price Prediction**  
-- 📩 **SMS Spam Classifier**  
-- 📚 **Book Recommendation System**  
-- 🎬 **Movie Recommendation System**  
-- 🏏 **IPL Winning Probability Prediction**  
-- 😷 **Face Mask Detection (Deep Learning)**  
+- 🚗 Car Price Prediction  
+- 📱 Smartphone Price Prediction  
+- 💻 Laptop Price Prediction  
+- 📩 SMS Spam Classifier  
+- 📚 Book Recommendation System  
+- 🎬 Movie Recommendation System  
+- 🏏 IPL Winning Probability Prediction  
+- 😷 Face Mask Detection (Deep Learning)
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amantripathi-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantripathi-dev&theme=tokyonight" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantripathi-dev&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:amantripathi@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+```python
+while(True):
+    learn()
+    build()
+    improve()
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://m.facebook.com/Santosh.singh.rajput.4321/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_pandit_87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-mani-tripathi-744320299/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanmanit133@gmail.com) 
