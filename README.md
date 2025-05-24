@@ -20,8 +20,8 @@
 - 🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
 - 🎓 Completed **BCA** from *DDU University, Gorakhpur*  
 - 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges.
-- 
+- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges
+
 ---
 
 ## 🛠️ Skills & Technologies
