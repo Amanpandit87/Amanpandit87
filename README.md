@@ -12,8 +12,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University." alt="About Me Animation Part 1" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Science%2C+Machine+Learning;Deep+Learning+%26+Future+Data+Scientist+in+progress..." alt="About Me Animation Part 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Science%2C" alt="Passionate about Data Science" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%26" alt="Machine Learning &" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Deep+Learning" alt="Deep Learning" />
 </p>
 
 - 📍 I'm from **Gorakhpur, India**  
