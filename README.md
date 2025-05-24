@@ -1,4 +1,4 @@
-![GitHub Snake Dark](https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg)
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
