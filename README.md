@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Science%2C" alt="Passionate about Data Science" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+Deep+Learning" alt="Machine Learning & Deep Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Science%2C.;Machine+Learning+%26+Deep+Learning." alt="Passionate about Data Science" />
 </p>
 
 - 📍 I'm from **Gorakhpur, India**  
