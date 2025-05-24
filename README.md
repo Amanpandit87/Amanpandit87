@@ -10,7 +10,7 @@
 ### 🌍 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Data+Science%2C+Machine+Learning+%26+Deep+Learning.;Future+Data+Scientist+in+progress..." alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science%2C+Machine+Learning+%26+Deep+Learning.;Future+Data+Scientist+in+progress..." alt="About Me Animation" />
 </p>
 
 - 📍 I'm from **Gorakhpur, India**  
