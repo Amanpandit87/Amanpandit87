@@ -44,27 +44,39 @@
 </p>
 ---
 
-## 🚀 My Projects 💡  
+## 🚀 My Projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Explore+My+Projects...;Built+With+ML+%2F+DL+%2F+NLP+%2F+Python;Scroll+down+to+check+them+out!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <details>
-  <summary><b>🔍 Click to Explore My Work</b> ✨</summary>
-  <br>
+  <summary><strong>📂 Click to Expand Projects</strong></summary><br>
 
-  🚗 **Car Price Prediction**  
-  🎬 **Movie Recommendation System**  
-  📚 **Book Recommendation System**  
-  📱 **Smartphone Price Prediction**  
-  💻 **Laptop Price Prediction**  
-  🏏 **IPL Winning Probability Predictor**  
-  📩 **SMS Spam Classifier using NLP**  
-  😷 **Face Mask Detection using CNN**  
+### 📊 ML/DL Projects
 
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
-  </p>
+- 🚗 **Car Price Prediction** — Predicting car resale value using regression
+- 📱 **Smartphone Price Prediction** — Classification model for pricing smartphones
+- 💻 **Laptop Price Prediction** — Regression model based on specs
+- 😷 **Face Mask Detection** — Deep learning with CNN & OpenCV
+
+### 📚 Recommendation Engines
+
+- 📚 **Book Recommendation System** — Content-based and collaborative filtering
+- 🎬 **Movie Recommendation System** — Popularity & collaborative filtering based
+- 📩 **SMS Spam Classifier** — NLP-based binary classification model
+
+### 🏆 Sports & Analytics
+
+- 🏏 **IPL Winning Probability Predictor** — Real-time win prediction using match stats
+
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
+</p>
+
 </details>
-
 ---
 
 ## 🌐 Socials:
