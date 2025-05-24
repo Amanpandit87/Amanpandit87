@@ -27,28 +27,25 @@
 
 ---
 
-### 🚀 Projects
-
+## 🚀 My Projects 💡  
 <details>
-  <summary>📊 Data Science Projects</summary>
+  <summary><b>🔍 Click to Explore My Work</b> ✨</summary>
+  <br>
 
-  - Car Price Prediction  
-  - IPL Winning Probability Prediction  
-  - Smartphone & Laptop Price Prediction  
-</details>
+  🚗 **Car Price Prediction**  
+  🎬 **Movie Recommendation System**  
+  📚 **Book Recommendation System**  
+  📱 **Smartphone Price Prediction**  
+  💻 **Laptop Price Prediction**  
+  🏏 **IPL Winning Probability Predictor**  
+  📩 **SMS Spam Classifier using NLP**  
+  😷 **Face Mask Detection using CNN**  
 
-<details>
-  <summary>🤖 ML/NLP Projects</summary>
-
-  - SMS Spam Classifier  
-  - Face Mask Detection  
-</details>
-
-<details>
-  <summary>📚 Recommendation Systems</summary>
-
-  - Book Recommendation  
-  - Movie Recommendation  
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
+  </p>
 </details>
 
 ---
