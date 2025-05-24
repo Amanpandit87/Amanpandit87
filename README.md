@@ -1,5 +1,61 @@
-# 💫 Hi there 👋 I am Aman Mani Tripathi:
-My name is Aman mani Tripathi. I am from Gorakhpur.<br>I done my bachelor (BCA) from DDU University Gorakhpur <br>and i doing MCA from Galgotias University Greater Noida. <br>During my studies, I gained hands-on experience in like<br>Data Warehousing, Data Analytics, SQL, Python, Data Visualization, <br>Data Mining, Machine Learning, and completed a few projects, <br>including Car price prediction, SMS spam classifier and <br>Books recmmendation system.<br>I inspire to become a Data Scientist so that's all about me.
+<h1 align="center">Hey there! 👋 I'm Aman Mani Tripathi</h1>
+
+<p align="center">
+  🌍 A data enthusiast from <strong>Gorakhpur, India</strong><br>
+  🎓 MCA student at <strong>Galgotias University, Greater Noida</strong><br>
+  🎓 BCA graduate from <strong>DDU University, Gorakhpur</strong><br>
+  🚀 Future <strong>Data Scientist</strong> in the making!
+</p>
+
+---
+
+### 🧠 Skills & Interests
+
+- 📊 Data Analytics & Visualization  
+- 🗃️ Data Warehousing & Data Mining  
+- 💻 SQL, Python  
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Natural Language Processing (NLP)
+
+---
+
+### 💡 Projects I've Worked On
+
+- 🚗 **Car Price Prediction**  
+- 📱 **Smartphone Price Prediction**  
+- 💻 **Laptop Price Prediction**  
+- 📩 **SMS Spam Classifier**  
+- 📚 **Book Recommendation System**  
+- 🎬 **Movie Recommendation System**  
+- 🏏 **IPL Winning Probability Prediction**  
+- 😷 **Face Mask Detection (Deep Learning)**  
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 📧 Email: your-email@example.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 
 
 ## 🌐 Socials:
