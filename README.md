@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
-</picture>
-
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
@@ -102,6 +96,14 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amanpandit87&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+</picture>
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
