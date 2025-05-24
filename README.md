@@ -17,14 +17,31 @@
 
 ---
 
-### 💡 Skills & Technologies
+## 🛠️ Skills & Technologies
 
-- 💻 Python, SQL  
-- 📊 Data Analytics & Visualization (Pandas, Matplotlib, Seaborn)  
-- 🧠 Machine Learning, Deep Learning  
-- 🌐 NLP, Data Mining, Data Warehousing  
-- 🧰 Tools: Jupyter, Google Colab, Power BI  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Python+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Machine+Learning+%E2%9C%94%EF%B8%8F;Deep+Learning+%F0%9F%A7%A0;Data+Visualization+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Power+BI+%F0%9F%93%88;Pandas+%2F+NumPy+%2F+Seaborn" alt="Typing SVG" />
+</p>
 
+---
+
+### 🧠 Tech Stack Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</p>
 ---
 
 ## 🚀 My Projects 💡  
