@@ -10,15 +10,18 @@
 ### 🌍 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science%2C+Machine+Learning+%26+Deep+Learning.;Future+Data+Scientist+in+progress..." alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University." alt="About Me Animation Part 1" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Science%2C+Machine+Learning;Deep+Learning+%26+Future+Data+Scientist+in+progress..." alt="About Me Animation Part 2" />
 </p>
 
 - 📍 I'm from **Gorakhpur, India**  
 - 🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
 - 🎓 Completed **BCA** from *DDU University, Gorakhpur*  
 - 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges
-
+- 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges.
+- 
 ---
 
 ## 🛠️ Skills & Technologies
