@@ -90,7 +90,7 @@
 </p>
 
 <details>
-  <summary><strong>📂 👉 ✨ <img src="https://readme-typing-svg.demolab.com/?lines=Click+to+Expand+Projects🚀&center=false&width=300&height=20&pause=1000&color=0A58CA&font=Fira+Code" alt="typing" /></strong></summary><br>
+  <summary><strong>📂 👉 ✨ <img src="https://readme-typing-svg.demolab.com?lines=Click+to+Expand+Projects+🚀&font=Fira+Code&weight=500&color=0A58CA&width=350&height=25" alt="Click to Expand Projects" /></strong></summary><br>
 
 ### 📊 ML/DL Projects
 
