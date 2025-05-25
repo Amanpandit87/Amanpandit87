@@ -92,7 +92,6 @@
 <p align="center">
 <details>
   <summary><strong>📂 Click to Expand Projects</strong></summary><br>
-</details>
 </p>
 
 ### 📊 ML/DL Projects
