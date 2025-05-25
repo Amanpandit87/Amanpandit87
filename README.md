@@ -58,7 +58,7 @@
   <img width="12" />
 
   <!-- Visualization & BI -->
-  <img src="https://user-images.githubusercontent.com/674621/71187899-466b1380-224c-11ea-8fa5-1d8b68dbd6b9.png" height="40" alt="powerbi logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
 
   <!-- Storage & SQL -->
@@ -70,7 +70,7 @@
   <img width="12" />
 
   <!-- Cloud/Notebook -->
-  <img src="https://github.com/googlecolab/colabtools/raw/main/docs/_static/colab_logo_32px.png" height="40" alt="colab logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_SVG_Logo.svg" height="40" alt="colab logo" />
 </div>
 
 ###
