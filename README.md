@@ -140,8 +140,9 @@
 ---
 
 ## 🌐 Socials:
-<br clear="both">
-<img align="right" src="https://profile-counter.glitch.me/Amanpandit87/count.svg?" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ Amanpandit87/count.svg?"  />
+</div>
 
 ###
 
