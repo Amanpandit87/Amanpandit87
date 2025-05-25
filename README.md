@@ -90,7 +90,7 @@
 </p>
 
 <details>
-  <summary><strong>📂 Click to Expand Projects</strong></summary><br>
+  <summary><strong><span style="background-color: #f0f0f0; padding: 6px 12px; border-radius: 6px; color: #0366d6; font-weight: bold; font-size: 16px;">📂 Click to Expand Projects</span></strong></summary><br>
 
 ### 📊 ML/DL Projects
 
@@ -114,7 +114,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
 </p>
-
 </details>
 ---
 
