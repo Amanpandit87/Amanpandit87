@@ -90,7 +90,7 @@
 </p>
 
 <details>
-  <summary><strong>📂 👉 <span><b>✨ Click to Expand Projects 🚀</b></span></strong></summary><br>
+  <summary><strong>📂 👉 ✨ <img src="https://readme-typing-svg.demolab.com/?lines=Click+to+Expand+Projects🚀&center=false&width=300&height=20&pause=1000&color=0A58CA&font=Fira+Code" alt="typing" /></strong></summary><br>
 
 ### 📊 ML/DL Projects
 
@@ -116,6 +116,7 @@
 </p>
 
 </details>
+
 
 ## 🌐 Socials:
 <div align="center">
