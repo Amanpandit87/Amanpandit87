@@ -91,7 +91,7 @@
 
 <details>
   <summary>
-    <p align="center"><strong>📂 Click to Expand Projects</strong></p>
+    <p align="left"><strong>📂 Click to Expand Projects</strong></p>
   </summary><br>
 
 ### 📊 ML/DL Projects
