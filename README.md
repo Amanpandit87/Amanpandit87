@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="40" height="40" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.gif" width="40" height="40" alt="GitHub" />
-
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
