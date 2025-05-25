@@ -140,23 +140,12 @@
 ---
 
 ## 🌐 Socials:
-<style>
-  .social-icons a img {
-    transition: transform 0.2s ease-in-out;
-  }
-
-  .social-icons a:hover img {
-    transform: scale(1.2);
-    cursor: pointer;
-  }
-</style>
-
 <br clear="both">
 <img align="right" src="https://profile-counter.glitch.me/Amanpandit87/count.svg?" />
 
 ###
 
-<div align="left" class="social-icons">
+<div align="left">
   <a href="https://www.linkedin.com/in/aman-mani-tripathi-744320299/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -181,8 +170,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
-
-###
 
 
 # 💻 Tech Stack:
