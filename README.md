@@ -90,24 +90,24 @@
 </p>
 
 <details>
-  <summary><strong><span style="background-color: #f0f0f0; padding: 6px 12px; border-radius: 6px; color: #0366d6; font-weight: bold; font-size: 16px;">📂 Click to Expand Projects</span></strong></summary><br>
+  <summary><strong>📂 👉 <span style="background:#cfe3ff; color:#0a58ca; padding:4px 8px; border-radius:6px; font-weight:bold; font-size:16px;">Click to Expand Projects</span></strong></summary><br>
 
 ### 📊 ML/DL Projects
 
-- 🚗 **Car Price Prediction** — Predicting car resale value using regression
-- 📱 **Smartphone Price Prediction** — Classification model for pricing smartphones
-- 💻 **Laptop Price Prediction** — Regression model based on specs
-- 😷 **Face Mask Detection** — Deep learning with CNN & OpenCV
+- 🚗 **Car Price Prediction** — Predicting car resale value using regression  
+- 📱 **Smartphone Price Prediction** — Classification model for pricing smartphones  
+- 💻 **Laptop Price Prediction** — Regression model based on specs  
+- 😷 **Face Mask Detection** — Deep learning with CNN & OpenCV  
 
 ### 📚 Recommendation Engines
 
-- 📚 **Book Recommendation System** — Content-based and collaborative filtering
-- 🎬 **Movie Recommendation System** — Popularity & collaborative filtering based
-- 📩 **SMS Spam Classifier** — NLP-based binary classification model
+- 📚 **Book Recommendation System** — Content-based and collaborative filtering  
+- 🎬 **Movie Recommendation System** — Popularity & collaborative filtering based  
+- 📩 **SMS Spam Classifier** — NLP-based binary classification model  
 
 ### 🏆 Sports & Analytics
 
-- 🏏 **IPL Winning Probability Predictor** — Real-time win prediction using match stats
+- 🏏 **IPL Winning Probability Predictor** — Real-time win prediction using match stats  
 
 <br>
 <p align="center">
@@ -115,7 +115,6 @@
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
 </p>
 </details>
----
 
 ## 🌐 Socials:
 <div align="center">
