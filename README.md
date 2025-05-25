@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/Amanpandit87/your-repo-name/blob/main/assets/python.gif?raw=true" width="50" />
+  <img src="https://github.com/Amanpandit87/your-repo-name/blob/main/assets/sql.gif?raw=true" width="50" />
+  <img src="https://github.com/Amanpandit87/your-repo-name/blob/main/assets/powerbi.gif?raw=true" width="50" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
