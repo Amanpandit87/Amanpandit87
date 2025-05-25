@@ -57,6 +57,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="scipy logo" />
   <img width="12" />
 
+  <!-- NLP -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="huggingface logo" />
+  <img width="12" />
+  <img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
+  <img width="12" />
+
+  <!-- Computer Vision -->
+  <img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV_logo_white_600x.png" height="40" alt="opencv logo" />
+  <img width="12" />
+
   <!-- Visualization & BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
@@ -73,7 +83,6 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
 </div>
 
-###
 ---
 
 ### 🧠 Tech Stack Badges
