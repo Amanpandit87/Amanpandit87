@@ -42,19 +42,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
 
   <!-- Machine Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="keras logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="scipy logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="scipy logo" />
   <img width="12" />
 
   <!-- Visualization & BI -->
@@ -68,12 +68,10 @@
   <!-- Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  
+
   <!-- Cloud/Notebook -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Colaboratory_SVG_Logo.svg" height="40" alt="colab logo" />
 </div>
-
-###
 
 ---
 
