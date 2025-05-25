@@ -90,7 +90,15 @@
 </p>
 
 <details>
-  <summary><strong>📂 👉 <span style="background:#cfe3ff; color:#0a58ca; padding:4px 8px; border-radius:6px; font-weight:bold; font-size:16px;">Click to Expand Projects</span></strong></summary><br>
+  <summary><strong>📂 👉 <span style="background:#cfe3ff; color:#0a58ca; padding:4px 8px; border-radius:6px; font-weight:bold; font-size:16px; animation: pulse 2s infinite;">Click to Expand Projects 🚀</span></strong></summary><br>
+
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(10, 88, 202, 0.7); }
+  70% { box-shadow: 0 0 0 10px rgba(10, 88, 202, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(10, 88, 202, 0); }
+}
+</style>
 
 ### 📊 ML/DL Projects
 
@@ -114,6 +122,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
 </p>
+
 </details>
 
 ## 🌐 Socials:
