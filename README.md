@@ -90,9 +90,7 @@
 </p>
 
 <details>
-  <summary>
-    <p align="left"><strong>📂 Click to Expand Projects</strong></p>
-  </summary><br>
+  <summary><strong>📂 Click to Expand Projects</strong></summary><br>
 
 ### 📊 ML/DL Projects
 
