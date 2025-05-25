@@ -90,7 +90,7 @@
 </p>
 
 <details>
-  <summary><strong>📂 👉 ✨ <img src="https://readme-typing-svg.demolab.com?lines=Click+to+Expand+Projects+🚀&font=Fira+Code&weight=500&color=0A58CA&width=350&height=25" alt="Click to Expand Projects" /></strong></summary><br>
+  <summary><strong>📂 👉 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A58CA&center=true&vCenter=true&width=250&lines=Click+to+Expand+Projects+🚀" alt="Click to Expand Projects Typing Animation" /></strong></summary><br>
 
 ### 📊 ML/DL Projects
 
@@ -116,7 +116,6 @@
 </p>
 
 </details>
-
 
 ## 🌐 Socials:
 <div align="center">
