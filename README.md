@@ -23,6 +23,10 @@
 
 ## 🛠️ Skills & Technologies
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Python+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Machine+Learning+%E2%9C%94%EF%B8%8F;Deep+Learning+%F0%9F%A7%A0;Data+Visualization+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Power+BI+%F0%9F%93%88;Pandas+%2F+NumPy+%2F+Seaborn" alt="Typing SVG" />
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
@@ -78,11 +82,6 @@
 </div>
 
 ###
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Python+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Machine+Learning+%E2%9C%94%EF%B8%8F;Deep+Learning+%F0%9F%A7%A0;Data+Visualization+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Power+BI+%F0%9F%93%88;Pandas+%2F+NumPy+%2F+Seaborn" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 Tech Stack Badges
