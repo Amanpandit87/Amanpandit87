@@ -47,24 +47,20 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
 
-  <!-- Machine Learning -->
+  <!-- Machine Learning / Deep Learning / NLP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="keras logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="scipy logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="pytorch logo" />
   <img width="12" />
-
-  <!-- NLP -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="huggingface logo" />
+  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" height="40" alt="scipy logo" />
   <img width="12" />
-  <img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" height="40" alt="opencv logo" />
   <img width="12" />
-
-  <!-- Computer Vision -->
-  <img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV_logo_white_600x.png" height="40" alt="opencv logo" />
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40" alt="nlp logo" />
   <img width="12" />
 
   <!-- Visualization & BI -->
@@ -83,6 +79,7 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
 </div>
 
+###
 ---
 
 ### 🧠 Tech Stack Badges
