@@ -89,8 +89,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Explore+My+Projects...;Built+With+ML+%2F+DL+%2F+NLP+%2F+Python;Scroll+down+to+check+them+out!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
 <details>
-  <summary><strong>📂 👉 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A58CA&center=true&vCenter=true&width=250&lines=Click+to+Expand+Projects+🚀" alt="Click to Expand Projects Typing Animation" /></strong></summary><br>
+  <summary><strong>📂 Click to Expand Projects</strong></summary><br>
+</details>
+</p>
 
 ### 📊 ML/DL Projects
 
