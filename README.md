@@ -160,7 +160,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
 </p>
 
 
