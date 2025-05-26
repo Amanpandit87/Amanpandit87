@@ -159,13 +159,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amanpandit87&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
-</p>
-
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
