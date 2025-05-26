@@ -153,6 +153,11 @@
 # 📊 GitHub Stats:
 <!-- GitHub Stats Section -->
 <p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=Amanpandit87&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Amanpandit87&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
