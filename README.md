@@ -77,6 +77,7 @@
 
   <!-- Cloud/Notebook -->
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="MySQL logo" />
 </div>
 
 ###
