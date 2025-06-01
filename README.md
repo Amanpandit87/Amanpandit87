@@ -78,8 +78,7 @@
   <!-- Cloud/Notebook -->
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="MySQL logo" />
-  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" height="40" alt="SQL logo" />
-
+  <img src="https://uxwing.com/sql-server-icon/" height="40" alt="SQL Server Icon" />
 </div>
 
 ###
