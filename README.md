@@ -79,6 +79,8 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="MySQL logo" />
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="SQL Server Icon" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
 ###
