@@ -156,38 +156,6 @@
 
 </details>
 
-## 🌐 Socials:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ Amanpandit87/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aman-mani-tripathi-744320299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  
-  <a href="https://m.facebook.com/Santosh.singh.rajput.4321/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  
-  <a href="mailto:amanmanit133@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  
-  <a href="https://instagram.com/aman_pandit_87" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  
-  <a href="https://wa.me/918756604890?text=Hello%2C%20I%20want%20to%20connect" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  
-  <a href="http://t.me/aman_pandit_78" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-</div>
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats Section -->
