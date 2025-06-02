@@ -87,12 +87,6 @@
 
 ---
 
-## 🚀 My Projects
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Explore+My+Projects...;Built+With+ML+%2F+DL+%2F+NLP+%2F+Python;Scroll+down+to+check+them+out!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
 ## 🌐 Socials:
 <div align="center">
   <img src="https://profile-counter.glitch.me/ Amanpandit87/count.svg?"  />
@@ -125,6 +119,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
+
+---
 
 ## 🚀 My Projects
 
