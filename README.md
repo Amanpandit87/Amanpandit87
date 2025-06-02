@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+DL+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
