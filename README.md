@@ -46,7 +46,7 @@
 <img width="12" />
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_logo.png" height="40" alt="plotly logo" />
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40" alt="plotly logo" />
 
   <!-- Machine Learning / Deep Learning / NLP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
