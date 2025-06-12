@@ -38,14 +38,15 @@
   <img width="12" />
 
   <!-- Data Analysis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+<img width="12" />
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
+<img width="12" />
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_logo.png" height="40" alt="plotly logo" />
 
   <!-- Machine Learning / Deep Learning / NLP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
