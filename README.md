@@ -122,10 +122,8 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ Amanpandit87/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amanpandit87.Amanpandit87" height="40" alt="Hits Counter" />
 </div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aman-mani-tripathi-744320299/" target="_blank">
