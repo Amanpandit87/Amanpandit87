@@ -42,7 +42,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 <img width="12" />
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="40" valign="middle">
+<img src="https://matplotlib.org/stable/_static/logo2.png" height="50">
 <img width="12" />
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
 <img width="12" />
