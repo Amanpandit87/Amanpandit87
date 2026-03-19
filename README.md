@@ -42,7 +42,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 <img width="12" />
-<img src="https://matplotlib.org/stable/_static/logo2.png" height="50">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" style="vertical-align: middle;" />
+&nbsp;&nbsp;
 <img width="12" />
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
 <img width="12" />
@@ -82,6 +83,19 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="SQL Server Icon" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <br>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DVC-945DDF?style=for-the-badge&logo=dvc&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,aws" height="40" />
+</p>
 </div>
 
 ###
