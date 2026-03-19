@@ -96,6 +96,24 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux,aws" height="40" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Gen%20AI%20%26%20RAG-000000?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" height="40" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/Agentic%20AI-4A90E2?style=for-the-badge&logo=robots&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=33cc33" height="40" />
+</p>
 </div>
 
 ###
