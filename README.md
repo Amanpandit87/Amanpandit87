@@ -190,18 +190,14 @@
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats Section -->
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180px"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Amanpandit87&theme=radical&hide_border=false" height="180px"/></td>
-  </tr>
-</table>
-
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="185px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanpandit87&theme=radical" alt="GitHub Streak" height="185px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&layout=compact&theme=radical" alt="Top Languages" height="185px" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amanpandit87&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
